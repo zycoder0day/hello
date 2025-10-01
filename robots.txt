@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jsfidc.ub.ac.id/sitemap.xml
